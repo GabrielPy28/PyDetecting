@@ -9,7 +9,7 @@
 >
 > PyDetecting combines these tools to process data, build a fraud detection model, and evaluate its performance. Its goal is to improve financial security by identifying suspicious transactions and preventing payment fraud.
 >
-> [!PyDetecting]([https://th.bing.com/th/id/OIG1.C9txntmWwUSbMadWtIY4?w=1024&h=1024&rs=1&pid=ImgDetMain](https://th.bing.com/th/id/OIG1.C9txntmWwUSbMadWtIY4?w=1024&h=1024&rs=1&pid=ImgDetMain))
+> [!PyDetecting](https://th.bing.com/th/id/OIG1.C9txntmWwUSbMadWtIY4?w=1024&h=1024&rs=1&pid=ImgDetMain)
 
 ## First Steps:
 1. clone the repository:
